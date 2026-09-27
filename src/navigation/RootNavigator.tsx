@@ -15,3 +15,4 @@ export function RootNavigator() {
 
     return <AuthLandingScreen />;
 }
+
